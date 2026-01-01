@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+input, select, button, textarea {
+  max-width: 100%;
+}
+
+meter, progress, output {
+  max-width: 100%;
+}
+
+div#tswsidecol {
+  float: right;
+  width: 15%;
+  color: black;
+  background-color: white;
+}
+
+div#tswcontent {
+  float: right;
+  width: 85%;
+  color: black;
+  background-color: #efebe7;
+}
+
+@media only screen and ( max-width : 629px ) {
+  div#tswsidecol {
+    float: none;
+    width: 100%;
+  }
+  div#tswcontent {
+    float: none;
+    width: 100%;
+  }
+}
+
+div#tswcontproper {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+div#tswcontainer {
+  color: ;
+  background-color: white;
+}
+
+div#tswsideproper, div#tswothersideproper {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+div#tswheader {
+  color: black;
+  background-color: white;
+}
+
+div#tswfooter {
+  color: black;
+  background-color: #d4d5d4;
+}
+
+#BG_1741143319324_11271 {
+  background-image: url("../my%20web/Chip%20page/pic/title%20pic/text%20back2.jpg");
+  background-size: auto auto;
+}
+
+#BG_1741156477841_29246 {
+  font-size: larger;
+  line-height: normal;
+}
+
